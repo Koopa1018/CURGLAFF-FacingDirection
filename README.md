@@ -1,4 +1,6 @@
 # CURGLAFF-FacingDirection
+**THIS PACKAGE IS DEPRECATED. Please use the fork found in the [CURGLAFF Foundational Packages Repository](https://github.com/Koopa1018/CURGLAFF-BasePackages).**
+
 Simple data components for Unity which store and represent a direction an object is facing.
 
 Variants are available both for systems which do and for systems which do not need to know when objects are facing upwards.
